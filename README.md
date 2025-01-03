@@ -1,4 +1,5 @@
 # Insights-To-management-in-Consumer-Goods-Domain
+This is a data analytics Project I have done using SQL.
 ## Problem Statement
 Atliq Hardwares is one of the leading computer hardware producers in India and well expanded in other countries too. There are 10 ad hoc requests for which the business needs insights. 
 ## Tools & Approach:
@@ -6,4 +7,5 @@ My SQL - Concepts like Joins, CTEs, Subqueries, Window functions, String functio
 
 ## Findings:
 Important Metrics such as Gross Profit, Contribution %, order by overall amount sold, average gross sales, Manufacturing cost etc
+what are the top 3 products in each division
 
